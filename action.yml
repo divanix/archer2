@@ -1,4 +1,4 @@
-name: 'thehackcompany/hackername'
+name: 'Autologger'
 description: 'Greet someone with fake name'
 inputs:
   who-to-greet:  # id of input
