@@ -1,4 +1,4 @@
-name: 'Archer 2'
+name: 'thehackcompany/hackername'
 description: 'Greet someone with fake name'
 inputs:
   who-to-greet:  # id of input
